@@ -2,6 +2,10 @@
 
 - I'm a Python developer and a Minecraft developer
 
+<h1> Now i'm working on: </h1>
+
+- MC Scanner 🧱
+
 <h1>Languages I know</h1>
 
 - Python 🐍
