@@ -4,7 +4,12 @@
 
 <h1> Now i'm working on: </h1>
 
-- MC Scanner 🧱
+- DemolishMC 👮‍♂️ 
+
+<h1> DemolishMC </h1>
+- https://dc.demolishmc.net => Discord
+- demolishmc.net => IP
+- https://tienda.demolishmc.net => Store
 
 <h1>Languages I know</h1>
 
@@ -26,6 +31,7 @@
 
 - [⌨️] Discord as TheBraisFP#4637
 - [📹] Youtube as TheBraisFP
+- 
 
 
 
