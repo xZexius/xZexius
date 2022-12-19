@@ -13,7 +13,7 @@
 
 <h1>Languages I know</h1>
 
-- Python 🐍
+https://skillicons.dev/icons?i=all
 - HTML 👨‍💻
 - CSS 🖌️
 
