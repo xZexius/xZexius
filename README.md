@@ -15,7 +15,7 @@
 
 [![My Skills](https://skillicons.dev/icons?i=python)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=html)](https://skillicons.dev)
-- CSS 🖌️
+[![My Skills](https://skillicons.dev/icons?i=css)](https://skillicons.dev)
 
 <h1>I was staff on:</h1>
 
