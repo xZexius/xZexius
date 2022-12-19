@@ -33,7 +33,8 @@
 
 <h1>How to contact me?</h1>
 
-[![My Skills](https://skillicons.dev/icons?i=discord)](https://skillicons.dev) TheBraisFP#4637
+TheBraisFP#4637
+[![My Skills](https://skillicons.dev/icons?i=discord)](https://skillicons.dev)
 - [📹] Youtube as TheBraisFP
 - [🐦] Twitter as xZexius
 
