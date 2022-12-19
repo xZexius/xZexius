@@ -29,7 +29,7 @@
 
 <h1>Languages I'm learning</h1>
 
-- JavaScript 💻
+[![My Skills](https://skillicons.dev/icons?i=javascript)](https://skillicons.dev)
 
 <h1>How to contact me?</h1>
 
