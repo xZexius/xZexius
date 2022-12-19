@@ -11,6 +11,10 @@
 
 - Discord: dc.ekkodesigns.ml
 
+<h1> My Stats </h1>
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=xzexius&show_icons=true)
+
 <h1>Languages I know</h1>
 
 [![My Skills](https://skillicons.dev/icons?i=python)](https://skillicons.dev)
