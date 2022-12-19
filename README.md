@@ -14,7 +14,7 @@
 <h1>Languages I know</h1>
 
 [![My Skills](https://skillicons.dev/icons?i=python)](https://skillicons.dev)
-- HTML 👨‍💻
+[![My Skills](https://skillicons.dev/icons?i=html)](https://skillicons.dev)
 - CSS 🖌️
 
 <h1>I was staff on:</h1>
