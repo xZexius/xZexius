@@ -4,12 +4,9 @@
 
 <h1> Now i'm working on: </h1>
 
-- DemolishMC 👮‍♂️
-- EkkoDesigns 🖌️
+- PalyMC 🟨 as CEO
+- MercurioMC 🌌 as Developer
 
-<h1> EkkoDesigns </h1>
-
-- Discord: dc.ekkodesigns.ml
 
 <h1> My Stats </h1>
 
@@ -26,6 +23,7 @@
 - [💀] VirginsCave as moderator
 - [🏄] Surfcraft as owner
 - [🦊] FoxMC as Co-Owner
+- [🖌️] EkkoDesigns as Manager
 
 <h1>Languages I'm learning</h1>
 
@@ -33,7 +31,7 @@
 
 <h1>How to contact me?</h1>
 
-[![My Skills](https://skillicons.dev/icons?i=discord)](https://skillicons.dev) **xZexius#0001**
+[![My Skills](https://skillicons.dev/icons?i=discord)](https://skillicons.dev) **xZexius#4044**
 
 [![My Skills](https://skillicons.dev/icons?i=twitter)](https://skillicons.dev) **xZexius**
 
