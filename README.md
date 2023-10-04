@@ -8,6 +8,7 @@
 
 <h1> My Stats </h1>
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xzexius)
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=xzexius&show_icons=true)
 
 <h1>Languages I know</h1>
