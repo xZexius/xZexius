@@ -4,7 +4,8 @@
 
 <h1> Now i'm working on: </h1>
 
-- [🧱] BlockTopia as Owner - https://dc.zexiusdev.nl
+- [🧱] BlockTopia as Owner - https://discord.blocktopia.us
+- [🦇] BatGenerator as Dev
 
 <h1> My Stats </h1>
 
