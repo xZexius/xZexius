@@ -4,7 +4,7 @@
 
 [![GitHub followers](https://img.shields.io/github/followers/xzexius.svg?style=social&label=Followers)](https://github.com/xzexius?tab=followers)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+It's+xZexius!;I'm+a+Minecraft+Developer...;I'm+also+Developer+Learning+Engineer;And+I'm+a+proud+Spanish+🇪🇸)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+It's+xZexius!;I'm+a+Minecraft+Developer...;I'm+also+Student;And+I'm+Spanish)](https://git.io/typing-svg)
 
 <img src="https://komarev.com/ghpvc/?username=xzexius&label=Views&color=brightgreen&style=flat-square" alt="views on github" />
 
