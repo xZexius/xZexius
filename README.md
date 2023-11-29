@@ -22,13 +22,8 @@
 &emsp;
 <a target="_blank" href="https://twitter.com/XZexius"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white"></img></a>
 &emsp;
-
-
+                                                       
 <br>
-</p>
-- 😄 Pronouns: ... We/Us
-- ⚡ Fun fact: ... I am batman. 😎🦇 
-
 ### 🔥 Streak Stats
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=xzexius&theme=gruvbox" alt="xzexius"  /></p>
 
