@@ -10,7 +10,7 @@
 
 <h3> Here's some info about me: </h3>
 
-- 🔭 I’m currently working on ElectricHCF, BatGenerator and BlockTopia
+- 🔭 I’m currently working on ...
 - 🌱 I've 2+ years in Minecraft Development.
 - 👯 I’m looking to collaborate on new Minecraft servers.
 - 💬 Ask me about Programming.
